@@ -1,0 +1,42 @@
+Copyright © 2021 - 2027, Destiny Otto.
+
+TECHNOTRIVIA OPEN LICENSE AGREEMENT
+
+PLEASE READ THIS SOFTWARE LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE USING THE TECHNOTRIVIA APPLICATION ("SOFTWARE"). 
+BY USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS 
+LICENSE, DO NOT USE THE SOFTWARE.
+
+License Grant
+Subject to the terms and conditions of this License, Destiny Otto ("Licensor") hereby grants to you a non-exclusive, 
+non-transferable, revocable license to use, copy, modify, and distribute the Software, in source or binary form, for 
+educational, practice, and non-commercial purposes.
+
+Restrictions
+You shall not, nor allow others to, directly or indirectly:
+(i) use the Software for commercial purposes;
+(ii) distribute, sublicense, rent, lease, or sell the Software or any portion thereof;
+(iii) use the Software in any manner that could damage, disable, overburden, or impair Licensor's services or networks;
+(iv) use the Software for any unlawful purpose or in violation of any applicable law, regulation, or industry standard.
+
+Ownership
+The Software and all intellectual property rights therein are and shall remain the exclusive property of Licensor and its licensors. Except for the license granted in this License, you shall not acquire any right, title or interest in the Software or any portion thereof.
+
+Termination
+This License shall terminate immediately upon your breach of any of the terms and conditions hereof. Upon termination, you shall immediately cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+Disclaimer of Warranties
+The Software is provided "AS IS" and without warranty of any kind. Licensor disclaims all warranties, express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+Limitation of Liability
+Licensor shall not be liable for any direct, indirect, incidental, special or consequential damages arising out of or in connection with the use or inability to use the Software or any other services provided by Licensor.
+
+Governing Law
+This License shall be governed by and construed in accordance with the laws of the jurisdiction in which Licensor resides, without giving effect to its conflicts of law provisions.
+
+Entire Agreement
+This License constitutes the entire agreement between you and Licensor with respect to the Software and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between you and Licensor.
+
+Acknowledgment
+By using the Software, you acknowledge that you have read this License, understand it, and agree to be bound by its terms and conditions.
+
+If you have any questions or concerns about this License, please contact Destiny Otto at www.linkedin.com/in/destiny-otto.
