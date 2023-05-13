@@ -1,4 +1,4 @@
-## TECHOTRIVIA APP
+## TECHOTRIVIA APP API
 
 The Techotrivia app is a simple and fast web-based application api for trivia and games for those who want to engage in some brainbusters in areas related to the oil and Energy industry knowledge. Although the original intention of this application was to provide a robust api for any one who wants to consume but I have also proceeded to create a simple and nice frontend with React. I used test-driven development concepts. You can find the written tests in the 'test_app.py' It can run on any browser.
 
@@ -142,11 +142,10 @@ The API will return three error types when requests fail:
       "difficulty": 5,
       "category": 2
     }
+        .   .   .
+        .   .   .
+        .   .   .
   ],
-.   .   .
-.   .   .
-.   .   .
-.   .   .
   "totalQuestions": 100,
   "categories": {
     "1": "Science",
@@ -223,7 +222,7 @@ The API will return three error types when requests fail:
 
 ```json
 {
-    'previous_questions': [1, 4, 20, 15]
+    'previous_questions': [1, 4, 20, 15],
     quiz_category': 'current category'
  }
 ```
